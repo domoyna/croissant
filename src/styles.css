@@ -12,6 +12,7 @@ h1 {
 }
 p {
     text-align: center;
+    font-size: large;
 }
 
 .croissant-photo {
@@ -28,5 +29,6 @@ footer {
 footer a {
     margin: 0 10px;
     color: var(--secondary-color);
+    font-size: small;
     
 }
