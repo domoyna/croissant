@@ -1,6 +1,6 @@
 :root {
     --primary-color: #f8e8a6;
-    --secondary-color: #2661ec;
+    --secondary-color: #025d2f;
 }
  body {
     background: var(--primary-color);
